@@ -1,1 +1,1 @@
-# Studen account<br>Computer Systems Engineering
+# Student account<br>Computer Systems Engineering
